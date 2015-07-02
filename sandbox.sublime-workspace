@@ -1,0 +1,714 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"hover"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"b",
+				"bxz	box-sizing: ${1:border-box};"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"ten",
+				"text-decoration"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"mt-",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cur	cursor: ${pointer};"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"ta",
+				"ta-l	text-align: left;"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"view",
+				"view_details"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"fla",
+				"false"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tedn",
+				"text-decoration"
+			],
+			[
+				"mh",
+				"mah	max-height"
+			],
+			[
+				"tr",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"tran",
+				"transition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Product-preview-slider.html",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Александр Чупрун/Desktop/product-preview-slider/index.html",
+			"settings":
+			{
+				"buffer_size": 4175,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sht",
+		"selected_items":
+		[
+			[
+				"sht",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"se",
+				"Set Syntax: HTML"
+			],
+			[
+				"s",
+				"Set Syntax: LESS"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Autoprefix CSS"
+			],
+			[
+				"set syntax h",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Cont",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Git Hub/Sandbox"
+	],
+	"file_history":
+	[
+		"/C/Users/Александр Чупрун/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Александр Чупрун/Desktop/1.html",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/styles.css",
+		"/C/Users/Александр Чупрун/Desktop/nissan/basic/templates/views/products/components/sorting.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/button.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/products_list.tpl",
+		"/C/Users/Александр Чупрун/Desktop/food/Food/css/style.less",
+		"/C/Users/Александр Чупрун/Desktop/food/Food/index.html",
+		"/C/WebServers/home/localhost/www/cscart/design/themes/responsive/templates/meta.tpl",
+		"/C/WebServers/home/localhost/www/cscart/design/backend/templates/index.tpl",
+		"/C/Users/Александр Чупрун/Desktop/food/css/style.less",
+		"/C/Users/Александр Чупрун/Desktop/2.less",
+		"/C/Users/Александр Чупрун/AppData/Roaming/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/subscribe2.tpl",
+		"/C/Users/Александр Чупрун/Desktop/planethair/planethair/design/themes/basic/templates/addons/mod_free_products/views/checkout/components/fp_type.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc_/product_data.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/popupbox.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/login_form.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/notification.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc_/custom.less",
+		"/C/Users/Александр Чупрун/Desktop/OurTemplateEmail/test.html",
+		"/C/Users/Александр Чупрун/Desktop/OurTemplateEmail/resource/logo-simtech@2x.png",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/product_data.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/product_options_quick_view.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/view_main_info.override.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/view_main_info_quick_view.override.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc_/view_main_info_quick_view.override.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/responsive.js",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/styles.less",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc_/styles.less",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/fonts.css",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/sorting.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/products_small_items.tpl",
+		"/C/Users/Александр Чупрун/AppData/Local/Temp/_tc/product_filter_slider.tpl",
+		"/C/Users/Александр Чупрун/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Александр Чупрун/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http://slideshare.net/simtechdev?utm_source=mailing&utm_medium=email&utm_content=social_footer_mail&utm_campaign=mailing_july2015",
+			"href=\"",
+			"price-num",
+			"price",
+			"allow_anonymous_shopping",
+			"product-main-info",
+			"product-title",
+			".main-content-grid",
+			".select-link",
+			"sort-popup",
+			";\n",
+			"product_amount",
+			"qty-in-stock",
+			"actual-price",
+			"prod_descr",
+			"pagination_contents",
+			"ul.dropdown-multicolumns",
+			".breadcrumbs",
+			".mainbox-title span",
+			"$search.sort_order",
+			"$search.sort_by",
+			"ul.dropdown-multicolumns li:hover a",
+			"ul.dropdown-multicolumns li a",
+			"show_add_to_cart",
+			"wishlist",
+			"show_product_options",
+			"show_descr",
+			"viewport",
+			"ty-select-block__a",
+			"payment_box",
+			"payment_dropdown",
+			"payment_accepted",
+			".vendor_wrapper",
+			"sorting_products_evryj",
+			" sorting_products_evryj",
+			"ty-sort-container",
+			"#0088cc",
+			"breadcrumbs",
+			"feature-image",
+			"forgot-password",
+			"control-group password",
+			"ty-product-filters__reset-button",
+			"zero_price_action",
+			"{if $product.price|floatval || $product.zero_price_action == \"P\" || ($hide_add_to_cart_button == \"Y\" && $product.zero_price_action == \"A\")}",
+			"no-price",
+			"price-qv",
+			"no-price",
+			"price-qv",
+			"qty-out-of-stock",
+			"qty-in-stock",
+			"qty",
+			".tygh-content",
+			"hw-accordion",
+			"quick-view-wrap",
+			"product-review",
+			"login_block",
+			"sign_in",
+			".ui-dialog-content",
+			" ui-widget-content",
+			"ui-dialog-title",
+			";\n",
+			"button-submit",
+			"buttons-container",
+			"}",
+			".ui-widget-content.ui-dialog",
+			".ad-container",
+			"vtbgeopa_user",
+			"ty-sort-dropdown",
+			"ty-product-filters__wrapper",
+			".ty-price-slider",
+			"ty-product-filters__wrapper",
+			"ty-strike",
+			"$add_to_cart",
+			"add_to_cart",
+			"simple-list__buttons",
+			"href",
+			"src",
+			"ty-list-price",
+			"ty-quick-view-button",
+			".ty-menu__submenu-link",
+			"family",
+			".ty-menu__submenu-items",
+			".ty-menu__submenu-link",
+			"\\",
+			".ty-menu__submenu-link",
+			".ty-menu__item-link",
+			".ty-footer-menu__grid",
+			".ty-menu__item-link",
+			"font-family",
+			"ty-sort-container__views-icons",
+			"ty-sort-container",
+			"list_info_wpapper",
+			"ty-product-block__option_with_images",
+			".ty-menu__item .ty-menu__item-link",
+			"ty-product-block__option_data",
+			"heart",
+			"ty-product-block__option_data",
+			".ty-product-block__option ",
+			".ty-product-block__option_data{",
+			".ty-product-block__option ",
+			".ty-product-block__option_data{",
+			".ty-product-block__option_data{\n 	isplay: inline-block;\n    max-width: 65%;",
+			".ty-product-block__option_data{\n 	display: inline-block;\n    max-width: 65%;",
+			"ty-product-block__option_qty",
+			"block__option_with_images",
+			"ty-product-block__option_qty",
+			"ty-product-block__option_data",
+			"quick_view_option",
+			"product_options",
+			"ty-product-options_one_input",
+			"ty-icon-star",
+			"ty-product-list__option",
+			"ty-qty-in-stock",
+			"ty-product-list__item-name",
+			"sku",
+			"options",
+			"opt",
+			"ty-product-img",
+			"// Product page",
+			".ty-grid-list__image_mark {",
+			"\n        .ty-grid-list__image_mark {\n            position: absolute;\n            left: 20px;\n            top: 20px;\n\n            .ty-grid-list__image_mark_icon {\n                width: 31px;\n                height: 31px;\n                display: block;\n                background: url('../../media/images/addons/sd_evryj_mode/si_mark_sprite.png') 0 0 no-repeat;\n\n                &.ty-grid-list__image_mark_icon_sale {\n                    background-position: 0 -36px;\n                }\n            }\n        }",
+			".ty-grid-list__image {\n        .ty-grid-list__image_mark {\n            position: absolute;\n            left: 20px;\n            top: 20px;\n\n            .ty-grid-list__image_mark_icon {\n                width: 31px;\n                height: 31px;\n                display: block;\n                background: url('../../media/images/addons/sd_evryj_mode/si_mark_sprite.png') 0 0 no-repeat;\n\n                &.ty-grid-list__image_mark_icon_sale {\n                    background-position: 0 -36px;\n                }\n            }\n        }\n    }",
+			"ty-grid-list__image_mark_icon_sale",
+			"$discount_label",
+			"product.mark",
+			"discount_label",
+			"$discount_label",
+			"ty-discount-label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Meiryo, Helvetica, Arial, sans-serif"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Product-preview-slider.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Александр Чупрун/Desktop/product-preview-slider/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "sandbox.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Александр Чупрун\\Desktop\\enj\\evryj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 126.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
