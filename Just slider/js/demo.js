@@ -13,6 +13,7 @@ $(document).ready(function(){
 			numStatus:true,
 			banners:'fromRight',// fromLeft, fromRight, fromTop, fromBottom
 			waitBannerAnimation:false,
-			progressBar:'<div class="progbar"></div>'
-		})		
+			progressBar:'<div class="progbar"></div>',
+			numStatus: false
+		})
  })
